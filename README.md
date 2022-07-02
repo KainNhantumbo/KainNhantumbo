@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Kain Nhantumbo</h1>
 <h3 align="center">A passionate Javascript and Typescript fullstack developer from Mozambique!</h3>
 
@@ -26,5 +24,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kainnhantumbo&show_icons=true&locale=en&layout=compact" alt="kainnhantumbo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kainnhantumbo&show_icons=true&locale=en" alt="kainnhantumbo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kainnhantumbo&show_icons=false&locale=en" alt="kainnhantumbo" /></p>
 
