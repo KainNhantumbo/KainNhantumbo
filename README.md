@@ -1,21 +1,5 @@
-<style>
-  h1 {
-    text-align: center;
-  }
-
-  p {
-    line-height: 1.6rem;
-  }
-
-  .badges-container {
-    display: flex;
-    flex-flow: row wrap;
-    gap: 20px; 
-    margin-bottom: 12px;
-  }
-</style>
-
 # 👋 Hi, I'm Kain Nhantumbo
+
 <h3 align="center">A passionate full-stack developer based in Maputo, Mozambique!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kainnhantumbo&label=Profile%20views&color=0e75b6&style=flat" alt="kainnhantumbo" /> </p>
@@ -28,11 +12,11 @@
 
 - 📫 Reach each me by sending an email to **nhantumbok@gmail.com**
 
-- ⚡ Fun fact about me: **I love donuts and creating drumkits.🥁🪕** in my leazy time.
+- ⚡ Fun fact about me: **I love donuts and creating drumkits with friends** 🥁🪕 in my lazy time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kain-nhantumbo-aa380317a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kain nhantumbo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kain-nhantumbo/?locale=en_US" target="blank"><img align="center" src="./assets/linkedin-logo.svg" alt="kain nhantumbo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
