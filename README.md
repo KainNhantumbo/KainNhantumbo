@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Kain Nhantumbo
+<h1 align="center">👋 Hi, I'm Kain!</h1>
 
 <h3 align="center">A passionate full-stack developer based in Maputo, Mozambique!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kainnhantumbo&label=Profile%20views&color=0e75b6&style=flat" alt="kainnhantumbo" /> </p>
 
 - 🌱 I’m currently learning **Docker**.
+
+- 🔭 I am looking for my first job opportunity. My dream is to one day work with server API's.
 
 - 👨‍💻 All of my projects are available at [https://portifolio-dev-mu.vercel.app](https://portifolio-dev-mu.vercel.app)
 
@@ -14,37 +16,73 @@
 
 - ⚡ Fun fact about me: **I love donuts and creating drumkits with friends** 🥁🪕 in my lazy time.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kain-nhantumbo/?locale=en_US" target="blank"><img align="center" src="./assets/linkedin-logo.svg" alt="kain nhantumbo" height="30" width="40" /></a>
-</p>
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left" class="badges-container">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-</a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>   
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+- 💬 I am 24 years old, currently living in Maputo, Mozambique. I have fluency in English and have experience with Typescript, Javascript, Node.JS, Data Analysis, Data Visualization and Docker. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+
+- ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as creating drumkits! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
+</details>
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kain-nhantumbo/?locale=en_US)
+
+### 🔥 Skills and Tools
+
+<div style="display:flex; flex-direction:row; gap: 12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </div>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kainnhantumbo&show_icons=true&locale=en&layout=compact" alt="kainnhantumbo" />
+<div style="display:flex; flex-direction:row; gap: 12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</div>
+
+<div style="display:flex; flex-direction:row; gap: 12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+      
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</div>
+
+<div style="display:flex; flex-direction:row; gap: 12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
+
+  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+</div>
+
+<!-- Portfolio -->
+<!-- ## Portfolio:
+- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
+- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
+- [C - Registration and query system](https://github.com/VariableBee/Cartorio) -->
+
+<!-- GithubStats -->
+
+![Kain Nhantumbo GitHub Stats](https://github-readme-stats.vercel.app/api?username=KainNhantumbo&show_icons=true&theme=gotham)
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
