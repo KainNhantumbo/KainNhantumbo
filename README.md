@@ -20,7 +20,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-- 💬 I am 24 years old, currently living in Maputo, Mozambique. I have fluency in English and have experience with Typescript, Javascript, Node.JS, Data Analysis, Data Visualization and Docker. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+- 💬 I am 24 years old, currently living in Maputo, Mozambique. I am Portuguese speaker but I have fluency in English too, which helped me a lot during my learning journey. I have been working with web development since 2019, from I gained experience with Typescript, Javascript, Node.JS, Git, Front-end development and user interfaces, CI/CD and currently Docker. I'm also a content creator on my own blog since 2022, which is helping me develop some important skills such as creativity, communication, community and social media management.
 
 - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as creating drumkits! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
