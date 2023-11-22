@@ -1,6 +1,6 @@
-# Hi, I'm Kain! Welcome to My Github! 🌠 🌟
+<h1 align="center"> Hi, I'm Kain! Welcome to My Github! 🌠 🌟</h1>
 
-<h3 style="width: 100%; margin: 0 auto; line-height: 2rem; text-align:center; max-width: 500px;">I am a passionate full-stack developer based in Maputo, Mozambique! 🪁</h3>
+<h3 align="center" style="width: 100%; margin: 0 auto; line-height: 2rem; text-align:center; max-width: 500px;">I am a passionate full-stack developer based in Maputo, Mozambique! 🪁</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kainnhantumbo&label=Profile%20views&color=0e75b6&style=flat" alt="kainnhantumbo" /> </p>
 
@@ -76,16 +76,15 @@
 </div>
 <div>
 
-<br/>
+<br />
 
-<!-- Portfolio -->
-<!-- ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio) -->
+**Portfolio: [https://codenut-dev.vercel.app](https://codenut-dev.vercel.app)**
+
+**Blog: [https://codenut-dev.vercel.app/en/blog](https://codenut-dev.vercel.app/en/blog)**
+
+<br />
 
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
