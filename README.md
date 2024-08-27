@@ -1,28 +1,24 @@
-<h1 align="center"> Hi, I'm Kain! Welcome to My Github! 🌠 🌟</h1>
+Hi, I am an software developer based in Maputo, Mozambique! 🪁🐝
 
-<h3 align="center" style="width: 100%; margin: 0 auto; line-height: 2rem; text-align:center; max-width: 500px;">I am a passionate full-stack developer based in Maputo, Mozambique! 🪁</h3>
+I have more than 4 years of experience with a strong focus on delivering scalable enterprise applications for companies and individuals.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kainnhantumbo&label=Profile%20views&color=0e75b6&style=flat" alt="kainnhantumbo" /> </p>
+All of my projects are available at [https://codenut-dev.vercel.app](https://codenut-dev.vercel.app). Feel free to ask me about projects or topics related to **AI, Golang, Cloud, React, Javascript, Typescript, Node.js, Next.js and Express.JS** and more of the amazing web frameworks world.
 
-- 🌱 I’m currently learning **Docker**.
+📫 Reach each me by sending an email to **nhantumbok@gmail.com**
 
-- 🔭 I am looking for my first job opportunity. My dream is to one day work with server API's.
-
-- 👨‍💻 All of my projects are available at [https://codenut-dev.vercel.app](https://codenut-dev.vercel.app)
-
-- 💬 Ask me about projects or topics related to **React, Javascript, Typescript, Node.js, Next.js and Express.JS** and more of the amazing web frameworks world.
-
-- 📫 Reach each me by sending an email to **nhantumbok@gmail.com**
-
-- ⚡ Fun fact about me: **I love donuts and creating drumkits with friends** 🥁🪕 in my lazy time.
+⚡ Fun fact about me: **I love donuts and creating drums with friends** 🥁🪕 in my lazy time.
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-- 💬 I am 24 years old, currently living in Maputo, Mozambique. I am Portuguese speaker but I have fluency in English too, which helped me a lot during my learning journey. I have been working with web development since 2019, from I gained experience with Typescript, Javascript, Node.JS, Git, Front-end development and user interfaces, CI/CD and currently Docker. I'm also a content creator on my own blog since 2022, which is helping me develop some important skills such as creativity, communication, community and social media management.
+I am 24 years old, currently living in Maputo, Mozambique. Despite that I am a portuguese speaker, I have fluency in English too, which helped me a lot during my learning journey.
 
-- ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as creating drumkits! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
+I have been working with web development since 2019, from I gained experience with Typescript, Javascript, Node.JS, Git, front-end development and user interfaces, server side applications with Golang, CI/CD and currently Docker.
+
+Furthermore,I create content for my own blog since 2022, which is helping me to develop some important skills such as creativity, communication, community and social media management.
+
+I also enjoy reading, whether it's a good book, manga, or comics, as well as creating drums! I believe that our personal interests contribute to a more refined perception of things and problem solving!
 </details>
 
 <h3 align="center">Connect with me on 👇👇<h3>
@@ -47,12 +43,12 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  
+
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
 </div>
 
@@ -60,12 +56,12 @@
 
 <div style="display:flex; flex-direction:row; gap: 12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-      
+
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
