@@ -12,7 +12,7 @@ All of my projects are available at [https://codenut-dev.vercel.app](https://cod
 <details>
   <summary><strong> 👨‍💻 More about me </strong></summary>
 
-I am 24 years old, currently living in Maputo, Mozambique. Despite that I am a portuguese speaker, I have fluency in English too, which helped me a lot during my learning journey.
+I am 25 years old, currently living in Maputo, Mozambique. Despite that I am a portuguese speaker, I have fluency in English too, which helped me a lot during my learning journey.
 
 I have been working with web development since 2019, from I gained experience with Typescript, Javascript, Node.JS, Git, front-end development and user interfaces, server side applications with Golang, CI/CD and currently Docker.
 
@@ -23,6 +23,5 @@ I also enjoy reading, whether it's a good book, manga, or comics, as well as cre
 </details>
 
 <br>
-<div align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</div>
+
+> Thanks for reading! 😊
