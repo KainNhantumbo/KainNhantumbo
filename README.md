@@ -1,10 +1,12 @@
 ![👋 Hi, my name is Kain Nhantumbo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+[![committers.top badge](https://user-badge.committers.top/mozambique/KainNhantumbo.svg)](https://user-badge.committers.top/mozambique/KainNhantumbo)
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" />
   <strong>Hi, I am Kain, a software developer based in Maputo!</strong>
  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" style="transform: scaleX(-1);" />
 </div>
+
 
 I have more than 4 years of experience with a strong focus on delivering scalable enterprise applications for companies and individuals.
 
